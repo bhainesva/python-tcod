@@ -2,7 +2,7 @@
 
 Many event constants are derived directly from SDL.
 For example: ``tcod.event.KeySym.UP`` and ``tcod.event.Scancode.A`` refer to
-SDL's ``SDLK_UP`` and ``SDL_SCANCODE_A`` respectfully.
+SDL's ``SDLK_UP`` and ``SDL_SCANCODE_A`` respectively.
 `See this table for all of SDL's keyboard constants.
 <https://wiki.libsdl.org/SDL_Keycode>`_
 
